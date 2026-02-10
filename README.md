@@ -1,0 +1,1 @@
+# Sentimental_analysis_of_news_for_the_stocks
