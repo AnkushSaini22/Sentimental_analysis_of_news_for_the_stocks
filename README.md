@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project implements a quantitative machine learning pipeline to predict stock market movements—specifically the Dow Jones Industrial Average (DJIA)—by combining historical market data with sentiment analysis of daily top news headlines.
+This project implements a quantitative machine learning pipeline to predict stock market movements specifically the Dow Jones Industrial Average (DJIA) by combining historical market data with sentiment analysis of daily top news headlines.
 
 The pipeline handles both directional classification (predicting whether the market will close UP or DOWN) and return regression (predicting the magnitude of the price change). It is designed with robust financial modeling principles, specifically addressing common pitfalls like data leakage and class imbalance.
 
